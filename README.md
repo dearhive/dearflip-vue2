@@ -8,7 +8,7 @@ This project demonstrates how to use the DearFlip PDF FlipBook viewer within a V
 
 ## Setup
 
-1. Download the DearFlip library from [https://dearflip.com/](https://dearflip.com/)
+1. Download the DearFlip library from [https://js.dearflip.com/](https://js.dearflip.com/)
 2. Extract the downloaded ZIP file
 3. Copy the `dflip` folder to your project's root directory
 4. Make sure your project structure looks like:

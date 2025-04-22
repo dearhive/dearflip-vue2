@@ -1,6 +1,6 @@
 # DearFlip Vue 2 Integration
 
-A simple integration of DearFlip PDF FlipBook with Vue 2.
+A simple integration of DearFlip PDF FlipBook with Vue 2. [Demo](https://dearhive.github.io/dearflip-vue2/)
 
 ## Overview
 
